@@ -72,7 +72,7 @@
 
 ## 🏆 Achievements & Trophies
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=f-a2&theme=tokyonight&no-frame=true&margin-w=10&margin-h=10" width="100%" />
+  <img src="https://media.goboard.io/contentItem-8145638-70535690-ktfh6txd362lu-or.gif" width="100%" />
 </div>
 
 ---
